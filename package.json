@@ -1,0 +1,17 @@
+{
+  "name": "2nd-project-meraki-api-whith-express-and-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "knex": "^1.0.4",
+    "nodemon": "^2.0.15"
+  }
+}
